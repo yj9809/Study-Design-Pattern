@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 20721250}
   - component: {fileID: 20721249}
   m_Layer: 0
-  m_Name: Test
+  m_Name: Obj Spawn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -455,7 +455,7 @@ GameObject:
   - component: {fileID: 1745592528}
   - component: {fileID: 1745592527}
   m_Layer: 0
-  m_Name: Factory
+  m_Name: Obj Factory
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
